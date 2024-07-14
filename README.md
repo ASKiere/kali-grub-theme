@@ -1,5 +1,5 @@
-## ???
-It's the Kali Linux GRUB theme ripped straight from the files!
+## Intro
+This repo holds the Kali Linux GRUB theme ripped straight from the files!
 ## Sources
 /boot/grub/themes/kali for the theme files and /usr/share/images/desktop-base/desktop-grub.png for the background
 ## How to Install?
