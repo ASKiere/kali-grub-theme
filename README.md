@@ -3,7 +3,7 @@ This repo holds the Kali Linux GRUB theme ripped straight from the files!
 ## Sources
 ```/boot/grub/themes/kali``` for the theme files and ```/usr/share/images/desktop-base/desktop-grub.png``` for the background
 ## How to Install?
-Add the kali directory to ```/boot/grub/themes```</br>
+Add the kali directory to ```/boot/grub/themes``` (it can be any path but this is the standard)</br>
 Edit ```/etc/default/grub``` and find the ```GRUB_THEME="/boot/grub/themes/whatever"```
 line</br>and change it to ```GRUB_THEME="/boot/grub/themes/kali"```</br></br>
 Then, on apt based systems run ```sudo update-grub```</br></br>
